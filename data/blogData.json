@@ -1,0 +1,21 @@
+{
+	"blog": [{
+			"id": 1,
+			"title": "The Balanced Life with Robin Long",
+			"content": "Why follow? As a fitness instructor and mom of four, Robin Long’s motto is “Grace over guilt.” She offers a variety of free Pilates and barre workouts designed to help busy women fit at-home exercise into their regular routine. The Balanced Life offers far more than workout videos, though. You’ll also find a supportive membership community, a blog filled with healthy recipes and intentional living tips and targeted workout series to help you meet your fitness goals.",
+			"date": "20/05/2023"
+		},
+		{
+			"id": 2,
+			"title": "ACE Fitness",
+			"content": "Why follow? The American Council on Exercise (ACE) hosts this fitness and healthy lifestyle blog. You don’t need to be an Olympic athlete to implement these wellness tips! The ACE Fitness blog has accessible workouts everyday people can do at home. From fun family workouts that parents and kids can do together to targeted fitness and stress-reduction tips for your age group, this blog will encourage you to make your health a priority, without a gym membership.",
+			"date": "05/12/2023"
+		},
+		{
+			"id": 3,
+			"title": "Run to the Finish",
+			"content": "Why follow? The running community has its own specific fitness and nutrition needs, and the Run to the Finish blog is here to address them. Whether you’ve just taken up the sport or you’re a marathon finisher, this blog touches on concerns specific to runners at all levels, including dealing with knee pain, working in strength training and finding the best gear to keep you safe and comfortable on your runs.",
+			"date": "13/05/2020"
+		}
+	]
+}

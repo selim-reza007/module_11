@@ -1,0 +1,58 @@
+.postContainer {
+  background-color: powderblue;
+  min-height: 650px;
+}
+
+.postHeader {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+  background-color: #003326;
+  padding: 40px;
+
+}
+
+.blog {
+  color: midnightblue;
+  font-size: 30px;
+}
+
+.blogData {
+  color: black;
+  font-size: 30px;
+}
+
+.linkContainer {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}
+
+.homeLink {
+  text-decoration: none;
+  font-size: 30px;
+  text-align: center;
+  padding: 5px;
+}
+
+.blogContainer {
+  padding: 15px;
+}
+
+.contentData {
+  font-size: 20px;
+  color: darkgreen;
+  margin-top: 10px;
+  line-height: 1.6;
+}
+
+.dateData {
+  text-align: end;
+  margin-top: 50px;
+}
+
+.dateInfo {
+  font-size: 20px;
+  color: darkblue;
+}

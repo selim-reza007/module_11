@@ -1,0 +1,36 @@
+.blogContainer {
+  background-color: powderblue;
+  min-height: 650px;
+}
+
+.blogHeader {
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+  padding: 50px;
+  background-color: #003326;
+  color: white;
+  
+}
+
+.homeLink {
+  text-decoration: none;
+  font-size: 30px;
+  margin-left: 20px;
+  color: midnightblue;
+}
+
+.blogListHeader {
+  font-size: 20px;
+  margin: 30px 0 0 0;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  color: #cc6600;
+}
+
+.blogListLink {
+  text-decoration: none;
+  font-size: 20px;
+}
